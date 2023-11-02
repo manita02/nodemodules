@@ -39,7 +39,7 @@ Es una aplicación realizada según el patrón MVC (Modelo, Vista, Controlador) 
 ### :white_check_mark: `Programas necesarios`:clipboard:
 - Descargar e Instalar :arrow_down_small: 
   - Aprende a instalar Visual Studio Community :point_right: [10-minute tutorial ⏱️](https://www.youtube.com/watch?v=0Bylp5rPnWg)! 
-  - <a href="https://visualstudio.microsoft.com/es/"> 
+  - <a href="https://visualstudio.microsoft.com/es/" alt="vscode"> 
          Visual Studio Community :point_right: Desarrollo de escritorio con .NET (C#)
     </a>    
    
